@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+
+# Build folders
+x64/
+x86/
+Debug/
+Release/
+
+# Visual Studio user files
+*.user
+*.suo
+
+# Build artifacts
+*.exe
+*.pdb
+*.ilk
+*.tlog
+*.obj
+*.idb
+*.ipch
+
+# C++ intermediate files
+*.lastbuildstate
+*.log
